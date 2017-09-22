@@ -27,7 +27,8 @@
     },
     "devDependencies" : {
         "tap" : "10.3.x",
-        "pushover" : "0.0.x"
+        "pushover" : "0.0.x",
+        "electron-rebuild": "^1.6.0"
     },
     "engines" : {
         "node" : ">=0.4.0"
